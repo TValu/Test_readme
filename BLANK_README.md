@@ -62,8 +62,7 @@ To get started it is suggested to familiarize with JavaScript and Playwright tes
 Required software
 * Visual studio code https://code.visualstudio.com/Download
 * Playwright https://playwright.dev/docs/intro
-* NodeJS https://nodejs.org/en/ 
-* 
+* NodeJS https://nodejs.org/en/  
 
 
 <!-- USAGE EXAMPLES -->
