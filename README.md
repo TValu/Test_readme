@@ -68,9 +68,9 @@ Required software
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-1.Download repo content.
-2.Import to VSC.
-3.Run tests via Testing dashboard option.
+* Download repo content.
+* Import to VSC.
+* Run tests via Testing dashboard option.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
