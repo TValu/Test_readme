@@ -72,7 +72,6 @@ Required software
 2.Import to VSC.
 3.Run tests via Testing dashboard option.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,7 +81,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Devbridge license
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
